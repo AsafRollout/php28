@@ -1,0 +1,11 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: questions.test_variant
+availableValues:
+  - staging
+  - prod
+  - override
+  - local
+  - develop
+  - default
+value: override
