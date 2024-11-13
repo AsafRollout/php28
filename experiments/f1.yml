@@ -2,4 +2,10 @@
 type: experiment
 enabled: false
 flag: f1
+conditions:
+  - property:
+      name: platform
+      operator: ne
+      operand: aaaa
+    value: true
 value: false
