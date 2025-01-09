@@ -7,4 +7,4 @@ conditions:
       operator: ne
       operand: aaaa
     value: false
-value: false
+value: true
