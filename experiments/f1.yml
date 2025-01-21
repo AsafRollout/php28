@@ -6,5 +6,5 @@ conditions:
       name: platform
       operator: ne
       operand: aaaa
-    value: false
+    value: true
 value: true
