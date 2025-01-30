@@ -3,3 +3,4 @@ type: experiment
 flag: variant
 availableValues:
   - apopo
+value: apopo
