@@ -1,4 +1,7 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
 flag: blat6
+platforms:
+  - name: PHP
+    value: false
 value: true
