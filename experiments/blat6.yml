@@ -4,4 +4,4 @@ flag: blat6
 platforms:
   - name: PHP
     value: false
-value: true
+value: false
